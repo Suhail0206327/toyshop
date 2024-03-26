@@ -1,0 +1,2 @@
+[15-Mar-2024 05:09:47 UTC] PHP Warning:  Undefined property: stdClass::$id in /home/n0206327/public_html/211.sthechikodan.imgd.ca/toyshop/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 669
+[15-Mar-2024 05:09:47 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in /home/n0206327/public_html/211.sthechikodan.imgd.ca/toyshop/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 672
